@@ -1,6 +1,6 @@
 # Dragline Roadmap
 
-Status: proposed task breakdown; product direction and stage structure approved.
+Status: approved product direction, stage structure, and task baseline.
 Prepared: 2026-09-10.
 Implementation baseline: `c2a662ca0cf63fd8ad480597527f65edb4eb612d`.
 
