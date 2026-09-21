@@ -32,10 +32,11 @@
             </intent-filter>
         </activity>
 
-        <!-- Full-screen Ringing Experience (Wakes phone, displays over lock screen) -->
+        <!-- Alarm Ringing Full-screen Experience -->
         <activity
             android:name=".ui.ringing.RingingActivity"
-            android:exported="false"
+            android:exported="true"
+            android:showOnLockScreen="true"
             android:showWhenLocked="true"
             android:turnScreenOn="true"
             android:excludeFromRecents="true"
