@@ -15,7 +15,7 @@ ksp = "2.3.12"
 hilt = "2.60.1"
 hiltNavigationCompose = "1.2.0"
 room = "2.8.4"
-navigationCompose = "2.8.8"
+navigationCompose = "2.10.2"
 
 [libraries]
 androidx-core-ktx = { module = "androidx.core:core-ktx", version.ref = "androidxCore" }
