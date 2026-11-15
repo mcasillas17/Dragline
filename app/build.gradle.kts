@@ -8,7 +8,7 @@ plugins {
 
 android {
     namespace = "com.mcasillas.dragline"
-    compileSdk = 36
+    compileSdk = 37
 
     defaultConfig {
         applicationId = "com.mcasillas.dragline"
